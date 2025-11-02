@@ -1,13 +1,9 @@
 <!--
-**SaadShahbaz01/SaadShahbaz01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Saadjassal/Saadjassal** is a special repository because its `README.md` appears on your GitHub profile.
 -->
 
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" height="200"/>
-</p>
-
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=SaadShahbaz01&color=brightgreen" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Saadjassal&color=brightgreen" alt="profile views" />
 </p>
 
 <p align="center">
@@ -34,19 +30,14 @@
 ---
 
 <p align="center">
-  <em>
-    Hi, I'm <b>Saad Shahbaz</b> — a data-focused learner working on projects in data science, machine learning, and backend development. <br>
-    My focus is on building scalable solutions using <b>Python, FastAPI, and modern ML workflows</b>. <br>
-    I’m dedicated to transforming data into meaningful, deployable insights that solve real-world problems.
-  </em>
+  Hi, I'm <b>Saad Shahbaz</b> — a data-focused professional working on projects in data science, machine learning, and backend development. <br>
+  I focus on building scalable solutions using <b>Python, FastAPI, and modern ML workflows</b>. <br>
+  I aim to turn data into actionable insights and deploy solutions that solve real-world problems.
 </p>
 
 ---
 
-<img align="right" width=250px height=250px alt="animation" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
-
 ### About Me
-
 - Focused on mastering **Data Science**, **ML Fundamentals**, and **FastAPI**
 - Skilled in **Python**, **SQL**, and **Data Visualization**
 - Building projects that combine **data pipelines**, **model workflows**, and **API integration**
@@ -55,20 +46,9 @@
 
 ---
 
-### Current Focus
-
-- Developing end-to-end **FastAPI + ML** applications
-- Strengthening concepts in **statistics**, **algorithms**, and **model deployment**
-- Exploring **NLP**, **Computer Vision**, and **data automation**
-- Integrating **Streamlit**, **FastAPI**, and **data APIs**
-- Enhancing skills in **automation, scalability**, and **model optimization**
-
----
-
 ### Tools & Technologies
 
 #### Programming
-
 <p align="left"> 
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-%23013243.svg?logo=numpy&logoColor=white"/>
@@ -77,7 +57,6 @@
 </p>
 
 #### Machine Learning & AI
-
 <p align="left">
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E.svg?logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=tensorflow&logoColor=white"/>
@@ -86,7 +65,6 @@
 </p>
 
 #### Tools & Platforms
-
 <p align="left">
   <img src="https://img.shields.io/badge/FastAPI-009688.svg?logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"/>
@@ -99,22 +77,20 @@
 ---
 
 ### GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaadShahbaz01&theme=algolia" alt="streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saadjassal&theme=algolia" alt="streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaadShahbaz01&show_icons=true&theme=chartreuse-dark" width="410"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaadShahbaz01&layout=compact&theme=chartreuse-dark"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Saadjassal&show_icons=true&theme=chartreuse-dark" width="410"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saadjassal&layout=compact&theme=chartreuse-dark"/>
 </p>
 
 ---
 
 ### GitHub Trophies
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SaadShahbaz01&theme=algolia&no-bg=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Saadjassal&theme=algolia&no-bg=true" />
 </p>
 
 ---
@@ -124,4 +100,4 @@
 ---
 
 **Last Edited:** November 2025  
-Credits: [Saad Shahbaz](https://github.com/SaadShahbaz01)
+Credits: [Saad Shahbaz](https://github.com/Saadjassal)
