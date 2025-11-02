@@ -4,7 +4,6 @@
 
 <hr>
 
-<h1 align="center">Hi, I'm Saad Shahbaz</h1>
 <h3 align="center">Data Science | Machine Learning | FastAPI</h3>
 
 <p align="center">
@@ -18,19 +17,17 @@
 
 ---
 
-<p align="center">
- Hi, I'm Saad Shahbaz — a data-focused learner exploring data science, machine learning, and backend development.
-I am working on understanding Python, FastAPI, and modern ML workflows, and learning how to turn data into actionable insights.
-</p>
+Learning data science, machine learning, and backend development.  
+Exploring Python, FastAPI, and ML workflows to understand how to use data effectively.  
 
 ---
 
 ### About Me
-- Focused on mastering **Data Science**, **ML Fundamentals**, and **FastAPI**
+- Focused on learning **Data Science**, **ML Fundamentals**, and **FastAPI**
 - Skilled in **Python**, **SQL**, and **Data Visualization**
-- Building projects that combine **data pipelines**, **model workflows**, and **API integration**
+- Working on projects that combine **data pipelines**, **model workflows**, and **API integration**
 - Learning to deploy ML models through **FastAPI** and **cloud-based tools**
-- Goal: To design intelligent, data-powered systems with real-world impact
+- Goal: To understand how to turn data into actionable insights  
 
 ---
 
@@ -44,7 +41,7 @@ I am working on understanding Python, FastAPI, and modern ML workflows, and lear
   <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?logo=plotly&logoColor=black"/>
 </p>
 
-#### Machine Learning & AI
+#### Machine Learning
 <p align="left">
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E.svg?logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=tensorflow&logoColor=white"/>
