@@ -2,17 +2,6 @@
 **Saadjassal/Saadjassal** is a special repository because its `README.md` appears on your GitHub profile.
 -->
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=Saadjassal&color=brightgreen" alt="profile views" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Data%20Science%20%7C%20Machine%20Learning-blue" />
-  <img src="https://img.shields.io/badge/Learning-Python%20%7C%20ML%20%7C%20FastAPI-success" />
-  <img src="https://img.shields.io/badge/Lives-Pakistan-blueviolet" />
-  <img src="https://img.shields.io/badge/Languages-English%20%26%20Urdu-brightgreen" />
-</p>
-
 <hr>
 
 <h1 align="center">Hi, I'm Saad Shahbaz</h1>
