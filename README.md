@@ -19,9 +19,8 @@
 ---
 
 <p align="center">
-  Hi, I'm <b>Saad Shahbaz</b> — a data-focused professional working on projects in data science, machine learning, and backend development. <br>
-  I focus on building scalable solutions using <b>Python, FastAPI, and modern ML workflows</b>. <br>
-  I aim to turn data into actionable insights and deploy solutions that solve real-world problems.
+ Hi, I'm Saad Shahbaz — a data-focused learner exploring data science, machine learning, and backend development.
+I am working on understanding Python, FastAPI, and modern ML workflows, and learning how to turn data into actionable insights.
 </p>
 
 ---
