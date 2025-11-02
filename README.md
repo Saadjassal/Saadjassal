@@ -8,10 +8,10 @@
 <h3 align="center">Data Science | Machine Learning | FastAPI</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/saadshahbaz01" target="blank">
+  <a href="https://www.linkedin.com/in/saadshahbaz1/" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" />
   </a>
-  <a href="mailto:saadshahbaz.work@gmail.com">
+  <a href="mailto:saadjassal88@gmail.com">
      <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" height="30" width="40" alt="gmail logo"/>
   </a>
 </p>
